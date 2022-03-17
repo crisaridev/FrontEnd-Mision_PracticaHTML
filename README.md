@@ -36,8 +36,8 @@ En caso de que te quede corto el ejercicio siguele con esto!
 Ver diseño en Figma ---> [Dame click!](https://www.figma.com/file/apgvP5mcsNpvEVKAokXV53/Pasteleria-Practica?node-id=0%3A1)
 <br>
 
-Vista pastelero ---> [Dame click](https://crisaridev.github.io/FrontEnd-Mision_PracticaHTML/views/admin.html)
+Vista pastelero ---> [Dame click!](https://crisaridev.github.io/FrontEnd-Mision_PracticaHTML/views/admin.html)
 
-Vista cliente ---> [Dame click](https://crisaridev.github.io/FrontEnd-Mision_PracticaHTML/views/index.html) 
+Vista cliente ---> [Dame click!](https://crisaridev.github.io/FrontEnd-Mision_PracticaHTML) 
 
 ***¡Vámonos hasta el espacio y más allá Explorers!***
