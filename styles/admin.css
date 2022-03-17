@@ -1,0 +1,94 @@
+@font-face {
+  font-family: Brittany;
+  src: url("../fonts/BrittanySignature.ttf");
+}
+* {
+  margin: 0;
+}
+
+body{
+  background: linear-gradient(to bottom,#AEBFEB, #FEC4C8);
+  background-repeat: repeat-x;
+  font-family: 'Work Sans', sans-serif;
+
+}
+header {
+  height: 100px;
+  /* background: #AEBFEB; */
+  display: flex;
+  justify-content: space-between;
+}
+header img {
+  width: 110px;
+  height: 80px;
+  margin: 10px 40px;
+}
+header nav {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+header ul {
+  width: 100%;
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+
+}
+header li {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+
+header a{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+h2 {
+  font-family: Brittany;
+  font-size: 55px;
+  text-align: center;
+  margin: 50px 0px;
+  color: #E21212;
+}
+
+.wrapper{
+  max-width: 90%;
+  height: 100vh;
+  padding: 30px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: auto;
+  /* background-color: rgba(255,255,255,0.15);
+  border: 2px solid white;
+  border-radius: 40px; */
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #000000;
+  color: #FFFFFF;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+th{
+  padding: 10px 0px 10px 10px;
+}
+td {
+  background: #FFFFFF;
+  border-bottom: 1px solid #afafaf;
+  padding-left: 10px;
+}

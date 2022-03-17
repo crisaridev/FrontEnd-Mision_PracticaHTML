@@ -1,0 +1,186 @@
+@font-face {
+  font-family: Brittany;
+  src: url("../fonts/BrittanySignature.ttf");
+  font-display: swap;
+}
+* {
+  margin: 0;
+}
+body{
+  background: linear-gradient(to bottom,#AEBFEB, #FEC4C8);
+  font-family: 'Work Sans', sans-serif;
+}
+header {
+  height: 100px;
+  /* background: #AEBFEB; */
+  display: flex;
+  justify-content: space-between;
+}
+header img {
+  width: 110px;
+  height: 80px;
+  margin: 10px 40px;
+}
+header nav {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 100px;
+}
+header ul {
+  width: 100%;
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+
+}
+header li {
+
+  font-weight: bold;
+  font-size: 24px;
+}
+
+
+header a{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+
+h2 {
+  font-family: Brittany;
+  font-size: 68px;
+  text-align: center;
+  margin-top: 101px;
+  color: #E21212;
+}
+
+.wrapper{
+  max-width: 1152px;
+  margin: auto;
+  margin-top: 60px;
+
+}
+
+
+.section-bienvenida img {
+  width: 100%;
+  border-radius: 30px;
+}
+
+.section-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card {
+  background: #FFFFFF;
+  height: 350px;
+  margin-top: 101px;
+  border-radius: 15px 15px 0px 0px;
+}
+.card img{
+  width: 300px;
+  height: 193px;
+}
+.contenedor-imagen {
+  width: 300px;
+  height: 218px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #F2F2F2;
+  border-radius: 15px 15px 0px 0px;
+}
+.card h3,p  {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  letter-spacing: -0.02em;
+}
+.card h3{
+  padding-left: 14px;
+  padding-top: 5px;
+}
+.card p{
+  color: #424242;
+  padding-left: 14px;
+  padding-top: 5px;
+}
+.card a{
+  color: #FFFFFF;
+  font-size: 17px;
+  text-decoration: none;
+  background: #EA7373;
+  padding: 5px 20px;
+  width: 64px;
+  height: 25px;
+  display: block;
+  margin: auto;
+  border-radius: 5px;
+}
+/* .card button {
+  display: block;
+  margin: auto;
+} */
+footer {
+  height: 120px;
+}
+.pasteleria-contacto {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+
+}
+.direccion {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+.direccion p{
+  text-align: left;
+}
+.direccion img {
+  padding-right: 10px;
+}
+.direccion p {
+  white-space: pre-line;
+}
+.telefono {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+.telefono img {
+  padding-right: 10px;
+}
+.telefono p {
+  white-space: pre-line;
+  padding-bottom: 15px;
+}
+.horario {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+.horario img {
+  padding-right: 10px;
+}
+.horario p {
+  white-space: pre-line;
+}
+
