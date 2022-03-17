@@ -34,4 +34,5 @@ En caso de que te quede corto el ejercicio siguele con esto!
 - Bonus de despliegue (Montar la página en línea con dominio gratuito)
 
 Ver diseño en Figma ---> [Dame un click!](https://www.figma.com/file/apgvP5mcsNpvEVKAokXV53/Pasteleria-Practica?node-id=0%3A1)
+<br>
 ***¡Vámonos hasta el espacio y más allá Explorers!***
